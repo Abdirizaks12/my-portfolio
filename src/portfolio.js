@@ -11,7 +11,7 @@ const about = {
   description:
     'i am a frontend developer with a passion for creating dynamic and engaging user experiences. With a solid understanding of HTML, CSS, JavaScript, and React, my experience also extends to working with REST APIs, implementing responsive design principles, and utilizing version control systems such as Git. I am always striving to learn and stay up to date with the latest frontend technologies and techniques, as well as promoting accessibility and usability best practices in my work.',
   resume:
-    'https://drive.google.com/file/d/1FkEWXyQpvlBM7-eDeMdWLjUkGQ7JkD5R/view?usp=drivesdk',
+    'https://drive.google.com/file/d/1NNod3bzb4eGdvHmn59I90EAJetiz5JRo/view?usp=drivesdk',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdirizaksigat',
     github: 'https://github.com/Abdirizaks12',
